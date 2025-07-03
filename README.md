@@ -1,2 +1,2 @@
 # WebdriverIO_Cuke_1
-Tutorial demo
+Learning project built following a tutorial.
